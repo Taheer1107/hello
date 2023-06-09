@@ -1,0 +1,11 @@
+<hmtl>
+<head>
+<title> my first git repositry </title>
+</head>
+<body>
+<h1> welcome to my code </h1>
+<p>
+i am studing in gpt mulbagal
+</p>
+</body>
+</html>
